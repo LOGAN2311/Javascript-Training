@@ -1,0 +1,64 @@
+.add{
+	display: flex;
+	margin-top: 30px;
+}
+.answer{
+	display: flex;
+	width: 800px;
+	justify-content: space between;
+}
+.head h1{
+	margin:auto;
+	padding: 20px 0 0 350px;
+}
+.score{
+}
+.left-con{
+	float: left;
+	margin-left: 50px;
+	padding: 20px;
+	padding-right: 50px;
+	border: 1px solid #000;
+}
+.right-con{
+	float: right;
+	margin-right: 50px;
+	padding: 20px;
+	padding-right: 50px;
+	border: 1px solid #000;
+}
+.total-con{
+	padding-left: 450px;
+	padding-top: 100px;
+	padding-right: 50px;
+	padding-bottom: 30px;
+	border: 1px solid #000;
+}
+.input1{
+	margin: auto;
+}
+.input2{
+	margin: auto;
+}
+.result{
+	margin: auto;
+}
+.btn{
+	margin-left: 550px;
+	margin-top: 10px;
+}
+img{
+	width: 200px;
+	height: 150px;
+	margin-left: 470px;
+	margin-top: 10px;
+}
+.box{
+	width: 150px;
+	height: 50px;
+	border: 1px solid #000;
+	padding: 20px 0 0 300px;
+	margin-left: 350px;
+	text-align: center;
+	justify-content: center;
+}

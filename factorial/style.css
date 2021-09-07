@@ -1,0 +1,26 @@
+*{
+	font-family: 'Raleway', sans-serif;
+}
+hr{
+	margin: 3px 0; 
+}
+.fact{
+	background-color: #FCD8D4;
+	padding: 1px 0 10px 10px;
+}
+.fibo{
+	background-color: #FFDADA;
+	padding: 1px 0 10px 10px;
+}
+.pali{
+	background-color: #F8E2CF;
+	padding: 1px 0 10px 10px;
+}
+.reve{
+	background-color: #F0D9E7;
+	padding: 1px 0 10px 10px;
+}
+.add{
+	background-color: #FFBCBC;
+	padding: 1px 0 10px 10px;
+}

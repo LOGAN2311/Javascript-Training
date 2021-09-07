@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset= "utf-8" >
+<title>Nested loop</title>
+</head>
+<body>
+
+<button onclick="myFunction()">Click</button>
+<p id="did"></p>
+
+<script>
+function myFunction() {
+var text = "";
+var i;
+var j;
+	for (i = 0; i < 5; i++) {
+		for (j = 0; j < 2; j++) {
+		text += "The number is i = " + i + " and j = " + j + "<br>";
+		}
+	}
+	document.getElementById("did").innerHTML = text;
+}
+</script>
+</body>
+</html>
